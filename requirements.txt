@@ -1,0 +1,9 @@
+pandas
+geopandas
+folium
+streamlit
+streamlit-folium
+plotly
+jupyter
+matplotlib
+mapclassify
